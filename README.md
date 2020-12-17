@@ -6,3 +6,7 @@ created contract = '0x0875e9cbac113e624e4cd0501dc45d24e13d4641'
 
 https://wiki.trezor.io/User_manual:Creating_a_custom_ERC-20_token
 https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.5.17+commit.d19bba13.js
+
+
+unit256
+1=1000000000000000000
